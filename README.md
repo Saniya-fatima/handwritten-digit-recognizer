@@ -13,7 +13,7 @@ This project focuses on recognizing handwritten digits using a Convolutional Neu
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Conclusion](#conclusion)
-- [License](#license)
+
 
 ## Introduction
 Handwritten digit recognition is a classic problem in the field of machine learning and computer vision. This project aims to build a CNN model to accurately classify digits from 0 to 9. The model is trained and tested on the MNIST dataset.
