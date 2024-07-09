@@ -98,9 +98,3 @@ The model's performance is evaluated using the accuracy metric on the test set. 
 ## Conclusion
 The CNN model achieves high accuracy on the MNIST dataset, demonstrating its effectiveness in recognizing handwritten digits. Further improvements could include experimenting with different architectures, data augmentation, and hyperparameter tuning.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file as per your specific project details and preferences!
