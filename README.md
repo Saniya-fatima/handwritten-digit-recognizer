@@ -1,6 +1,3 @@
-Here's a draft for the README file for your Handwritten Digit Recognition project:
-
----
 
 # Handwritten Digit Recognition
 
